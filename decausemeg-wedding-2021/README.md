@@ -1,0 +1,223 @@
+<html>
+<head>
+<style>
+
+body{
+    margin: 0
+    font-family: helvetica
+}
+
+p {
+    font-size: xx-large
+}
+
+pre {
+    font-size: xx-large
+}
+
+</style>
+</head>
+
+<body>
+<h2> THE PROCESSIONAL</h2>
+
+
+<h2>WELCOME</h2>
+<p>
+Dearly Beloved.
+</p>
+
+<p>
+We are gathered here today to honor the union of Megan and Anthony together in marriage.
+</p>
+
+<p>
+You all have been chosen to be here today, to bear witness to this ceremony
+solemnifying their Everlasting bond.
+</p>
+
+
+
+<h2>STATEMENT OF CONSENT</h2>
+
+<pre>
+Anthony Nicolas DeCausemaker and Megan Elizabeth Borruso, 
+do you come here of your own free will, 
+to be united in marriage, forevermore?
+
+If so, say <em>"Yes, we do"</em>
+</pre>
+
+
+
+<h2>STATEMENT OF MARRIAGE</h2>
+<p>
+Throughout the ages, countless have attempted to answer the timeless question,
+"What is Love?" When I spoke with the bride and Groom, it was Megan who offered
+the words of Bell Hooks, from <em><u>all about love</u></em>, who says: </p>
+
+<pre>
+"The moment we choose to love,
+we begin to move 
+
+against domination.
+against oppression.
+
+The moment we choose to love
+we begin to move twoards freedom,
+to act in ways that liberate ourselves and others.
+
+That action 
+is the testimony of love, as the practice of freedom...
+
+When we choose to love,
+we choose to move agsinst fear,
+against alienation 
+[against] separation.
+
+The choice to love 
+is a choice to connect
+
+to find ourselves 
+in the other.
+</pre>
+
+<p>
+As we grow and change through our lives, so too does our bond--<em>through Love</em>.
+That which we cannot tolerate alone, is much more easily endured together, <em>through Love</em>.
+</p>
+
+<p>
+And that which we could not pursue alone, is attainable together, through 
+the <em>Art of Marriage</em>, which states:
+</p>
+
+<pre>
+It is the little things, that are the big things.
+It is never being too old to learn and grow.
+
+It is at no time taking the other for granted; 
+the adventure should not end with the honeymoon, 
+it should continue throughout all of your years.
+
+It is setting a mutual set of goals, objectives, and values.
+
+It is doing for eachother--not in the attitude of duty or sacrifice, but in the
+spirit of Harmony.
+It is forming a circle of love, that gathers the whole community.
+
+It is establishing a partnership in which the independence is equal, 
+the dependence is mutual, 
+and the obligation is reciprocal.
+
+It is sharing a sense of humor, a sense of wonder, and a sense of purpose.
+It expressing and showing Love, as often as you can.
+
+It is the common search for not only the answers, 
+but the questions, that reveal the truth and beauty of 
+Life's greatest mysteries.
+
+Finally, it is not only <b>MARRYING</b> the right partner, 
+but <b>BEING</b> the right partner.
+</pre>
+
+
+<h2>EXCHANGE OF THE RINGS</h2>
+
+<pre>
+Anthony, what token of devotion do you offer your beloved?
+<b>Place the ring upon her finger, and repeat after me:
+"With this Ring" / "I Thee Wed"</b>
+
+And Megan, what token of devotion do you offer your beloved?
+<b>Place the ring upon his finger, and repeat after me:
+"With this Ring" / "I Thee Wed"</b>
+</pre>
+
+
+
+<h2>EXPLANATION OF THE RINGS</h2>
+<p>
+The wedding ring is a circle, the symbol of unity. A circle has no beginning.
+A circle has no end. These rings symbolize the joining of two lives in an
+unbroken circle, in which no matter what direction you go, you always come back
+together.
+</p>
+
+
+
+<h2>THE VOWS</h2>
+<p>
+I call upon you now, Megan and Anthony, to declare your vows before those
+gathered here today.
+</p>
+
+<p>
+Those of you who are already joined in Marriage or partnership may want to
+silently renew and reaffirm <b>YOUR OWN VOWS</b> today, by taking the hand of your
+partner during the ceremony. Others in relationships, kinships, or friendships
+may too want to join hands, and reflect upon your own bonds--with eachother, and
+with the bride and groom--for marriage is first built upon friendship.
+</p>
+
+<pre>
+and now
+
+Do you Anthony, take Megan, to be your lawfully wedded Wife?
+to have and to hold,
+for better or for worse
+for richer or for poorer
+through sickness and through health
+to love and to cherish,
+today, and all the days,
+for as long as you both shall live?
+
+If so, say "I DO"
+
+Do you Megan, Take Anthony, to be your lawfully wedded Husband?
+to have and to hold,
+for better or for worse
+for richer or for poorer
+through sickness and through health
+to love and to cherish,
+today, and all the days,
+for as long as you both shall live?
+
+If so, say "I DO"
+</pre>
+
+
+
+<h2>ANNOUNCEMENT OF MARRIAGE</h2>
+<p>
+Megan and Anthony, you have exchanged vows, you have exchanged rings, and you
+have consented to be wed before this gathering, therefore,
+</p>
+
+
+
+<p>
+By The Power vested in me, I now Pronounce you Husband and Wife!
+</p>
+
+<p>
+<b>You May Kiss your Beloved!</b>
+</p>
+
+
+
+<h2> THE PRESENTATION</h2>
+
+<p>
+Friends and Family gathered here today, it is my privilege to present to you
+for the very first time, Mr. and Mrs. Anthony and Megan DeCausemaker!
+</p>
+
+
+
+<h2>THE RECESSIONAL</h2>
+</body>
+<footer style="text-align:right">
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+</footer>
+</html>
