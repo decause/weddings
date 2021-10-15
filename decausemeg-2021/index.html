@@ -174,7 +174,7 @@ OFFICIANT: Will you share in eachother’s pain, and seek to protect the other f
 <br/>
 BOTH: We will.
 <br/>
-OFFICIANT: Then let the binding be so.
+OFFICIANT: Let the binding be so.
 </p>
 
 
@@ -183,7 +183,7 @@ OFFICIANT: Will you share in eachother’s joy, rejoice in it with the other, an
 <br/>
 Both: We will
 <br/>
-OFFICIANT: Then let the binding be so.
+OFFICIANT: Let the binding be so.
 </p>
 
 
@@ -192,7 +192,7 @@ OFFICIANT: Will you share in eachother’s hardships and toil, so that the two o
 <br/>
 BOTH: We will.
 <br/>
-OFFICIANT: Then let the binding be so.
+OFFICIANT: Let the binding be so.
 </p>
 
 
@@ -201,7 +201,7 @@ OFFICIANT: Will you share in eachother’s dreams and work with the other to ful
 <br/>
 BOTH: We will.
 <br/>
-OFFICIANT: Then let the binding be so.
+OFFICIANT: Let the binding be so.
 </p>
 
 <p>
@@ -209,7 +209,7 @@ OFFICIANT: Will you use your anger to strengthen and temper the bond between you
 <br/>
 BOTH: We will.
 <br/>
-OFFICIANT: Then let the binding be so.
+OFFICIANT: Let the binding be so.
 </p>
 
 <p>
@@ -217,7 +217,7 @@ OFFICIANT: Will you honor and respect eachother, treating the other as an equal 
 <br/>
 BOTH: We will
 <br/>
-OFFICIANT: Then let the binding be so.
+OFFICIANT: Let the binding be so.
 </p>
 
 
