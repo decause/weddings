@@ -98,8 +98,6 @@ It is at no time taking the other for granted;
 the adventure should not end with the honeymoon, 
 it should continue throughout all of your years.
 
-It is setting a mutual set of goals, objectives, and values.
-
 It is doing for eachother--not in the attitude of duty or sacrifice, but in the
 spirit of Harmony.
 It is forming a circle of love, that gathers the whole community.
@@ -114,43 +112,39 @@ It expressing and showing Love, as often as you can.
 It is the common search for not only the answers, 
 but the questions, that reveal the truth and beauty of 
 Life's greatest mysteries.
-
-Finally, it is not only <b>MARRYING</b> the right partner, 
-but <b>BEING</b> the right partner.
 </pre>
 
 
 <h2>EXPLANATION OF THE HANDBINDING</h2>
 <p>
-For those who may not be familiar, a Handbinding ceremony recognizes that love,
-like life, is dynamic.
+For those who may not be familiar, a Handbinding ceremony recognizes that Love,
+like Life, is dynamic.  These ceremonies were done traditionally in Celtic
+lands. Vows could be taken for a year, or they could be taken forever, because
+those ancestors understood that love changes from moment to moment, and that
+every couple is unique - every relationship is unique.
 </p>
 
 <p>
-Traditionally, these ceremonies were done in Celtic lands, and vows could be
-taken for a year, or they could be taken forever, because those Celtic
-ancestors understood that love changes from moment to moment, and that every
-couple is unique - as is every relationship.
-</p>
-
-<p>
-Megan and Anthony have chosen to commit to one another today for the rest of
-their lives, but they understand that the love they commit to is dynamic and
-fluid, and what we celebrate is the eternal connection between their souls, no
-matter what physical form their love may take.
+Megan and Anthony have chosen today, to commit to one another for the rest of their
+lives, with the understanding that the love they commit to, is dynamic and
+fluid. What we now celebrate is the eternal connection between their souls,
+no matter what physical form their Love may take.
 </p>
 
 <h2>DECLARATION OF INTENT</h2>
 <p>
-The vows you make today signify that your souls are bound eternally, whether
-your bodies are, or not. You make these vows today with the understanding that
-you are committing to one another, to honor the connection your souls share.
-These vows are sacred, and as they are strengthened in the presence of your
-loved ones, not easily broken.
+Megan and Anthony,<br/>
+
+You make these vows today, signifying your souls are bound
+eternally, no matter your physical form.<br/>
+You make these vows today, committing to honor this connection your souls
+share.<br/>
+You make these vows today, acknowledging that they are sacred, and through the
+blessing of your loved ones, strengthened, and not easily broken.
 </p>
 
 <p>
-Knowing this, Anthony Nicolas DeCausemaker and Megan Elizabeth Borruso, 
+Knowing this, Anthony Nicolas DeCausemaker and Megan Elizabeth Borruso,
 is it your intent to enter into this commitment to one another?
 </p>
 
@@ -165,12 +159,13 @@ Then Let Us Begin.
 </p>
 
 <p>
-Megan and Anthony, you will be making six vows in total to one another before all gathered here today. 
-For each, I will ask for your commitment, to which you both shall respond together, "We will."
+Megan and Anthony, you will be making a total of six vows to one another before
+those gathered here today.<br/>For each, I will ask for your commitment, which
+you both shall respond together, "We will."
 </p>
 
 <p>
-OFFICIANT: Will you share in eachother’s pain, and seek to protect the other from it and ease them of it?
+OFFICIANT: Will you share in eachother’s pain, and seek to protect the other from it, and ease them of it?
 <br/>
 BOTH: We will.
 <br/>
@@ -179,7 +174,7 @@ OFFICIANT: Let the binding be so.
 
 
 <p>
-OFFICIANT: Will you share in eachother’s joy, rejoice in it with the other, and look for the best in them always?
+OFFICIANT: Will you share in eachother’s joy, rejoice in it with the other, and look for the best in them, always?
 <br/>
 Both: We will
 <br/>
@@ -197,7 +192,7 @@ OFFICIANT: Let the binding be so.
 
 
 <p>
-OFFICIANT: Will you share in eachother’s dreams and work with the other to fulfill them?
+OFFICIANT: Will you share in eachother’s dreams, and work with the other to fulfill them?
 <br/>
 BOTH: We will.
 <br/>
@@ -213,7 +208,7 @@ OFFICIANT: Let the binding be so.
 </p>
 
 <p>
-OFFICIANT: Will you honor and respect eachother, treating the other as an equal in this bond?
+OFFICIANT: Will you honor and respect eachother, treating the other as an equal?
 <br/>
 BOTH: We will
 <br/>
@@ -237,17 +232,17 @@ And Megan, what token of devotion do you offer your beloved?
 
 <h2>EXPLANATION OF THE RINGS</h2>
 <p>
-The wedding ring is a circle, the symbol of unity. A circle has no beginning.
-A circle has no end. These rings symbolize the joining of two lives in an
-unbroken circle, in which love knows no end.
+The wedding ring is a Circle, the symbol of Unity. A Circle has no beginning.
+A Circle has no end. These rings symbolize the joining of two lives in an
+unbroken Circle, in which Love knows no End.
 </p>
 
 <p>
-Those of you who are already joined in Marriage or partnership may want to
-silently renew and reaffirm <b>YOUR OWN VOWS</b> today, by taking the hand of your
+Those of you already joined in Marriage or partnership may want to silently
+renew and reaffirm <b>YOUR OWN VOWS</b> today, by taking the hand of your
 partner during the ceremony. Others in relationships, kinships, or friendships
-may too want to join hands, and reflect upon your own bonds--with eachother, and
-with the bride and groom--for marriage is first built upon friendship.
+may too want to join hands, and reflect upon your own bonds--with eachother,
+and with the bride and groom--for marriage is first built upon friendship.
 </p>
 
 <h2>THE EXCHANGE OF VOWS</h2>
@@ -256,23 +251,22 @@ And Now:
 </p>
 
 <p>
-OFFICIANT: ANTHONY, Do you promise on this day to share Megan's pain, her joy, her burdens, and her dreams, and 
-to help her navigate the maze of life together." If so, say "I Do."
+OFFICIANT: ANTHONY, Do you vow on this day to share Megan's pain, her joy, her burdens, and her dreams, and 
+to help her navigate the mysteries of life together." If so, say "I Do."
 </p>
 
 <p>
-OFFICIANT: MEGAN, Do you promise on this day to share Anthony's pain, his joy, his burdens, and his dreams, and 
-to help him navigate the maze of life together." If so, say "I Do."
+OFFICIANT: MEGAN, Do you vow on this day to share Anthony's pain, his joy, his burdens, and his dreams, and 
+to help him navigate the mysteries of life together." If so, say "I Do."
 </p>
 
 
 <h2>ANNOUNCEMENT OF MARRIAGE</h2>
 <p>
 Megan and Anthony, you have exchanged vows, you have exchanged rings, and you
-have consented to be wed before this gathering, therefore, having proclaimed
-the bond of your souls together in the sight of these witnesses, and based on
-the strength of that bond, and by the power vested in me, 
-I now pronounce you Husband and Wife!
+having proclaimed the bond of your souls together in the sight of these
+witnesses, therefor, by the strength of your bond, and by the power vested in
+me, I now pronounce you Husband and Wife!
 </p>
 
 
