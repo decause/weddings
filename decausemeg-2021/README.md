@@ -51,7 +51,7 @@ If so, say <em>"Yes, we do"</em>
 <h2>STATEMENT OF MARRIAGE</h2>
 <p>
 Throughout the ages, countless have attempted to answer the timeless question,
-"What is Love?" When I spoke with the bride and Groom, it was Megan who offered
+"What is Love?" When I spoke with the Bride and Groom, it was Megan who offered
 the words of Bell Hooks, from <em><u>all about love</u></em>, who says: </p>
 
 <pre>
@@ -142,11 +142,11 @@ matter what physical form their love may take.
 
 <h2>DECLARATION OF INTENT</h2>
 <p>
-The vows you make today signify that your souls are bound eternally, whether or
-not your bodies are. You make these vows today with the understanding that you
-are committing to be a partner to one another, and to honor the connection your
-souls share. These vows are sacred, and not easily broken, as you strengthen them to
-one another in the presence of your loved ones.
+The vows you make today signify that your souls are bound eternally, whether
+your bodies are, or not. You make these vows today with the understanding that
+you are committing to one another, to honor the connection your souls share.
+These vows are sacred, and as they are strengthened in the presence of your
+loved ones, not easily broken.
 </p>
 
 <p>
