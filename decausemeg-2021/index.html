@@ -161,27 +161,18 @@ If so, say "We do."
 <h2>HANDBINDING CEREMONY</h2>
 
 <p>
-Then let us begin.
+Then Let Us Begin.
 </p>
 
 <p>
 Megan and Anthony, you will be making six vows in total to one another before all gathered here today. 
-For each, I will ask for your commitment, to which you both shall respond together, "I will."
+For each, I will ask for your commitment, to which you both shall respond together, "We will."
 </p>
 
 <p>
 OFFICIANT: Will you share in eachother’s pain, and seek to protect the other from it and ease them of it?
 <br/>
-BOTH: I will.
-<br/>
-OFFICIANT: Then let the binding be so.
-</p>
-
-
-<p>
-OFFICIANT: Will you share in eachother’s pain, and seek to protect him/her/them from it and ease him/her/them of it?
-<br/>
-Both: I will
+BOTH: We will.
 <br/>
 OFFICIANT: Then let the binding be so.
 </p>
@@ -190,7 +181,7 @@ OFFICIANT: Then let the binding be so.
 <p>
 OFFICIANT: Will you share in eachother’s joy, rejoice in it with the other, and look for the best in them always?
 <br/>
-Both: I will
+Both: We will
 <br/>
 OFFICIANT: Then let the binding be so.
 </p>
@@ -199,7 +190,7 @@ OFFICIANT: Then let the binding be so.
 <p>
 OFFICIANT: Will you share in eachother’s hardships and toil, so that the two of you may grow together?
 <br/>
-BOTH: I will.
+BOTH: We will.
 <br/>
 OFFICIANT: Then let the binding be so.
 </p>
@@ -208,7 +199,7 @@ OFFICIANT: Then let the binding be so.
 <p>
 OFFICIANT: Will you share in eachother’s dreams and work with the other to fulfill them?
 <br/>
-BOTH: I will.
+BOTH: We will.
 <br/>
 OFFICIANT: Then let the binding be so.
 </p>
@@ -216,7 +207,7 @@ OFFICIANT: Then let the binding be so.
 <p>
 OFFICIANT: Will you use your anger to strengthen and temper the bond between you?
 <br/>
-BOTH: I will.
+BOTH: We will.
 <br/>
 OFFICIANT: Then let the binding be so.
 </p>
@@ -224,7 +215,7 @@ OFFICIANT: Then let the binding be so.
 <p>
 OFFICIANT: Will you honor and respect eachother, treating the other as an equal in this bond?
 <br/>
-BOTH: I will
+BOTH: We will
 <br/>
 OFFICIANT: Then let the binding be so.
 </p>
@@ -248,8 +239,7 @@ And Megan, what token of devotion do you offer your beloved?
 <p>
 The wedding ring is a circle, the symbol of unity. A circle has no beginning.
 A circle has no end. These rings symbolize the joining of two lives in an
-unbroken circle, in which no matter what direction you go, you always come back
-together.
+unbroken circle, in which love knows no end.
 </p>
 
 <p>
@@ -266,11 +256,13 @@ And Now:
 </p>
 
 <p>
-OFFICIANT: ANTHONY, Do you promise on this day to share Megan's pain, her joy, her burdens, and her dreams, and to help her navigate the maze of life together." If so, say "I Do."
+OFFICIANT: ANTHONY, Do you promise on this day to share Megan's pain, her joy, her burdens, and her dreams, and 
+to help her navigate the maze of life together." If so, say "I Do."
 </p>
 
 <p>
-OFFICIANT: MEGAN, Do you promise on this day to share Anthony's pain, his joy, his burdens, and his dreams, and to help him navigate the maze of life together." If so, say "I Do."
+OFFICIANT: MEGAN, Do you promise on this day to share Anthony's pain, his joy, his burdens, and his dreams, and 
+to help him navigate the maze of life together." If so, say "I Do."
 </p>
 
 
@@ -279,7 +271,8 @@ OFFICIANT: MEGAN, Do you promise on this day to share Anthony's pain, his joy, h
 Megan and Anthony, you have exchanged vows, you have exchanged rings, and you
 have consented to be wed before this gathering, therefore, having proclaimed
 the bond of your souls together in the sight of these witnesses, and based on
-the strength of that bond, and the power vested in me, I now pronounce you Husband and Wife!
+the strength of that bond, and by the power vested in me, 
+I now pronounce you Husband and Wife!
 </p>
 
 
