@@ -264,8 +264,8 @@ to help him navigate the mysteries of life together." If so, say "I Do."
 <h2>ANNOUNCEMENT OF MARRIAGE</h2>
 <p>
 Megan and Anthony, you have exchanged vows, you have exchanged rings, and you
-having proclaimed the bond of your souls together in the sight of these
-witnesses, therefor, by the strength of your bond, and by the power vested in
+have proclaimed the bond of your souls before these witnesses,
+<br/>therefore<br/> by the strength of your bond, and by the power vested in
 me, I now pronounce you Husband and Wife!
 </p>
 
