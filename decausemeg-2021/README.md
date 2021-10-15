@@ -32,11 +32,9 @@ We are gathered here today to honor the union of Megan and Anthony together in m
 </p>
 
 <p>
-You all have been chosen to be here today, to bear witness to this ceremony
+You all have been invited to be here today, to bear witness to this ceremony
 solemnifying their Everlasting bond.
 </p>
-
-
 
 <h2>STATEMENT OF CONSENT</h2>
 
@@ -64,14 +62,14 @@ against domination.
 against oppression.
 
 The moment we choose to love
-we begin to move twoards freedom,
+we begin to move towards freedom,
 to act in ways that liberate ourselves and others.
 
 That action 
 is the testimony of love, as the practice of freedom...
 
 When we choose to love,
-we choose to move agsinst fear,
+we choose to move against fear,
 against alienation 
 [against] separation.
 
@@ -122,6 +120,116 @@ but <b>BEING</b> the right partner.
 </pre>
 
 
+<h2>EXPLANATION OF THE HANDBINDING</h2>
+<p>
+For those who may not be familiar, a Handbinding ceremony recognizes that love,
+like life, is dynamic.
+</p>
+
+<p>
+Traditionally, these ceremonies were done in Celtic lands, and vows could be
+taken for a year, or they could be taken forever, because those Celtic
+ancestors understood that love changes from moment to moment, and that every
+couple is unique - as is every relationship.
+</p>
+
+<p>
+Megan and Anthony have chosen to commit to one another today for the rest of
+their lives, but they understand that the love they commit to is dynamic and
+fluid, and what we celebrate is the eternal connection between their souls, no
+matter what physical form their love may take.
+</p>
+
+<h2>DECLARATION OF INTENT</h2>
+<p>
+The vows you make today signify that your souls are bound eternally, whether or
+not your bodies are. You make these vows today with the understanding that you
+are committing to be a partner to one another, and to honor the connection your
+souls share. These vows are sacred, and not easily broken, as you strengthen them to
+one another in the presence of your loved ones.
+</p>
+
+<p>
+Knowing this, Anthony Nicolas DeCausemaker and Megan Elizabeth Borruso, 
+is it your intent to enter into this commitment to one another?
+</p>
+
+<p>
+If so, say "We do."
+</p>
+
+<h2>HANDBINDING CEREMONY</h2>
+
+<p>
+Then let us begin.
+</p>
+
+<p>
+Megan and Anthony, you will be making six vows in total to one another before all gathered here today. 
+For each, I will ask for your commitment, to which you both shall respond together, "I will."
+</p>
+
+<p>
+OFFICIANT: Will you share in eachother’s pain, and seek to protect the other from it and ease them of it?
+<br/>
+BOTH: I will.
+<br/>
+OFFICIANT: Then let the binding be so.
+</p>
+
+
+<p>
+OFFICIANT: Will you share in eachother’s pain, and seek to protect him/her/them from it and ease him/her/them of it?
+<br/>
+Both: I will
+<br/>
+OFFICIANT: Then let the binding be so.
+</p>
+
+
+<p>
+OFFICIANT: Will you share in eachother’s joy, rejoice in it with the other, and look for the best in them always?
+<br/>
+Both: I will
+<br/>
+OFFICIANT: Then let the binding be so.
+</p>
+
+
+<p>
+OFFICIANT: Will you share in eachother’s hardships and toil, so that the two of you may grow together?
+<br/>
+BOTH: I will.
+<br/>
+OFFICIANT: Then let the binding be so.
+</p>
+
+
+<p>
+OFFICIANT: Will you share in eachother’s dreams and work with the other to fulfill them?
+<br/>
+BOTH: I will.
+<br/>
+OFFICIANT: Then let the binding be so.
+</p>
+
+<p>
+OFFICIANT: Will you use your anger to strengthen and temper the bond between you?
+<br/>
+BOTH: I will.
+<br/>
+OFFICIANT: Then let the binding be so.
+</p>
+
+<p>
+OFFICIANT: Will you honor and respect eachother, treating the other as an equal in this bond?
+<br/>
+BOTH: I will
+<br/>
+OFFICIANT: Then let the binding be so.
+</p>
+
+
 <h2>EXCHANGE OF THE RINGS</h2>
 
 <pre>
@@ -144,14 +252,6 @@ unbroken circle, in which no matter what direction you go, you always come back
 together.
 </p>
 
-
-
-<h2>THE VOWS</h2>
-<p>
-I call upon you now, Megan and Anthony, to declare your vows before those
-gathered here today.
-</p>
-
 <p>
 Those of you who are already joined in Marriage or partnership may want to
 silently renew and reaffirm <b>YOUR OWN VOWS</b> today, by taking the hand of your
@@ -160,48 +260,31 @@ may too want to join hands, and reflect upon your own bonds--with eachother, and
 with the bride and groom--for marriage is first built upon friendship.
 </p>
 
-<pre>
-and now
+<h2>THE EXCHANGE OF VOWS</h2>
+<p>
+And Now:
+</p>
 
-Do you Anthony, take Megan, to be your lawfully wedded Wife?
-to have and to hold,
-for better or for worse
-for richer or for poorer
-through sickness and through health
-to love and to cherish,
-today, and all the days,
-for as long as you both shall live?
+<p>
+OFFICIANT: ANTHONY, Do you promise on this day to share Megan's pain, her joy, her burdens, and her dreams, and to help her navigate the maze of life together." If so, say "I Do."
+</p>
 
-If so, say "I DO"
-
-Do you Megan, Take Anthony, to be your lawfully wedded Husband?
-to have and to hold,
-for better or for worse
-for richer or for poorer
-through sickness and through health
-to love and to cherish,
-today, and all the days,
-for as long as you both shall live?
-
-If so, say "I DO"
-</pre>
-
+<p>
+OFFICIANT: MEGAN, Do you promise on this day to share Anthony's pain, his joy, his burdens, and his dreams, and to help him navigate the maze of life together." If so, say "I Do."
+</p>
 
 
 <h2>ANNOUNCEMENT OF MARRIAGE</h2>
 <p>
 Megan and Anthony, you have exchanged vows, you have exchanged rings, and you
-have consented to be wed before this gathering, therefore,
+have consented to be wed before this gathering, therefore, having proclaimed
+the bond of your souls together in the sight of these witnesses, and based on
+the strength of that bond, and the power vested in me, I now pronounce you Husband and Wife!
 </p>
 
 
-
 <p>
-By The Power vested in me, I now Pronounce you Husband and Wife!
-</p>
-
-<p>
-<b>You May Kiss your Beloved!</b>
+<b>You May Seal your Bond with a Kiss!</b>
 </p>
 
 
@@ -216,7 +299,12 @@ for the very first time, Mr. and Mrs. Anthony and Megan DeCausemaker!
 
 
 <h2>THE RECESSIONAL</h2>
+<br/>
+<hr/>
+<br/>
+
 </body>
+
 <footer style="text-align:right">
     <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
 </footer>
